@@ -1,7 +1,7 @@
 <ins>Mad libs game</ins><br>
 <ins>Information</ins><br>
 
- A mad libs game written in python. A word document with solutions was included in this repository.<br>
+ A mad libs game written in python. A word document with solution was included in this repository.<br>
   
 <ins>Technology</ins><br>
   
