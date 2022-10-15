@@ -1,0 +1,18 @@
+color_1 = input("In the afternoon the sky looks ____. Enter color: ")
+adjective_1 = input("This color becomes ____ at night. Enter adjective: ")
+plural_noun_1 = input("At sunset the ____ lights the sky. Enter plural noun: ")
+noun_2 = input("Each season has different _______. Enter noun: ")
+noun_3 = input("When seasons change, _____ grow differently. Enter noun: ")
+verb_1 = input("In summer birds ____ loudly. Enter verb: ")
+adverb_1 = input("Gardens look _________. Enter color: ")
+plural_noun_2 = input(" _________ play in the shade. Enter plural noun: ")
+
+
+print("In the afternoon the sky looks " + color_1 + ".")
+print("This color becomes " + adjective_1 + " at night.")
+print("At sunset the " + plural_noun_1 + " lights the sky.")
+print("Each season has different " + noun_2 + ".")
+print("When seasons change, " + noun_3 + " grow differently.")
+print("In summer birds " + verb_1 + ".")
+print("Gardens look " + adverb_1 + ".")
+print(plural_noun_2 + " play in the shade.")
